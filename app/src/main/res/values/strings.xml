@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Лучшие фильмы</string>
+    <string name="back">Назад</string>
+    <string name="Continue">Продолжить</string>
+    <string name="names">Название</string>
+    <string name="countries">Страны</string>
+    <string name="genres">Жанры</string>
+    <string name="pictures">Изображения</string>
+    <string name="todo">TODO</string>
+    <string name="Back">Back</string>
+</resources>
